@@ -2,9 +2,9 @@ Hey! I'm Andrew. I am a generalist technologist. Studied hardware formally, but 
 
 You might be here as a potential employer or collaborator, in which case here are my most recent and impressive projects:
 
-- Physics Viewer: AI-powered tool for learning introductory physics. [loom demo](https://www.loom.com/share/5bb747b3ffae4accb7b91c44520d1966?sid=8a8b57cc-e71e-4e7e-806a-733e27ef9ad6) | [live app](https://physicsviewer.com)
-- Circuit Tutor: similar to above but for circuits. [loom demo](https://www.loom.com/share/535632b1f0874b6787f7bca180ea5564?sid=0746db11-bc07-49a9-9d00-b5fdacfd901b) | [live app](https://circuit-tutor.xyz)
-- Fermi Chain: a game for learning how to make big estimates. It got to the front page of Hacker News! [loom demo](https://www.loom.com/share/3ddcf479a4ab407bbf1ce1bca7bdf5d2?sid=888b39d4-d76b-42e4-b9df-c7b626cb4d09) | [live app](https://fermi-game.onrender.com/)
+- Physics Viewer: AI-powered tool for learning introductory physics. [loom demo](https://www.loom.com/share/5bb747b3ffae4accb7b91c44520d1966?sid=8a8b57cc-e71e-4e7e-806a-733e27ef9ad6) | [live app](https://physicsviewer.com) | [code](https://github.com/andrew-noble/physics-vis)
+- Circuit Tutor: similar to above but for circuits. [loom demo](https://www.loom.com/share/535632b1f0874b6787f7bca180ea5564?sid=0746db11-bc07-49a9-9d00-b5fdacfd901b) | [live app](https://circuit-tutor.xyz) | [code](https://github.com/andrew-noble/circuit-tutor)
+- Fermi Chain: a game for learning how to make big estimates. It got to the front page of Hacker News! [loom demo](https://www.loom.com/share/3ddcf479a4ab407bbf1ce1bca7bdf5d2?sid=888b39d4-d76b-42e4-b9df-c7b626cb4d09) | [live app](https://fermi-game.onrender.com/) | [code](https://github.com/andrew-noble/fermi-chain)
 
 If you want to get in touch, email me! aknoble.andrew@gmail.com
 
