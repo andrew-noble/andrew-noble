@@ -1,4 +1,4 @@
-Hey! I'm Andrew. I am a generalist technologist. Studied hardware formally, but also love to code. You'll find a growing list of public repos here, mostly web development but some embedded and ml projects hiding in here too. 
+Hey! I'm Andrew. I am a generalist technologist. Studied hardware formally, but also love to code. You'll find a growing list of public repos here, mostly web development but some embedded and ml projects are hiding in here too. 
 
 You might be here as a potential employer or collaborator, in which case here are my most recent and impressive projects:
 
