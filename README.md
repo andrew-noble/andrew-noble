@@ -1,4 +1,4 @@
-Hey! I'm Andrew. I studied hardware formally, but also love to code. You'll find a growing list of public repos here.
+Hey! I'm Andrew. I studied mechanical engineering formally, but also love to code. You'll find a growing list of public repos here.
 
 You might be here as a potential employer or collaborator, in which case here are my most recent and impressive projects:
 
