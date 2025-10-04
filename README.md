@@ -1,6 +1,6 @@
-Hey! I'm Andrew. I studied mechanical engineering formally, but also love to code. You'll find a growing list of public repos here, and there's some more stuff on my [website](https://www.andrewnoble.me).
+Hey! I'm Andrew. I'm currently studying a masters program in robotics at Carnegie Mellon in Pittsburgh. You'll find a growing list of public repos here, and there's some more stuff on my [website](https://www.andrewnoble.me).
 
-You might be here as a potential employer or collaborator, in which case here are my most recent and impressive projects:
+You might be here as a potential employer or collaborator, in which case here are my most noteworthy projects:
 
 - Doomscroll Detector: A computer vision pipeline that can nudge you when you scroll mindlessly on your phone. [code + video](https://github.com/andrew-noble/doomscroll-detector)
 - Physics Viewer: AI-powered tool for learning introductory physics. [loom demo](https://www.loom.com/share/5bb747b3ffae4accb7b91c44520d1966?sid=8a8b57cc-e71e-4e7e-806a-733e27ef9ad6) | [live app](https://physicsviewer.com) | [code](https://github.com/andrew-noble/physics-vis)
